@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://cosuna-22.github.io/carlos-portfolio/</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <image:image><image:loc>https://cosuna-22.github.io/carlos-portfolio/img/carlos-osuna.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://cosuna-22.github.io/carlos-portfolio/kfc.html</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://cosuna-22.github.io/carlos-portfolio/img/kfc-cover.jpg</image:loc></image:image>
@@ -17,21 +17,37 @@
   </url>
   <url>
     <loc>https://cosuna-22.github.io/carlos-portfolio/playstation.html</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://cosuna-22.github.io/carlos-portfolio/cierzo.html</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://cosuna-22.github.io/carlos-portfolio/img/cierzo-02-inicio.jpg</image:loc></image:image>
     <image:image><image:loc>https://cosuna-22.github.io/carlos-portfolio/img/cierzo-08-club.jpg</image:loc></image:image>
   </url>
   <url>
+    <loc>https://cosuna-22.github.io/carlos-portfolio/bmw.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://cosuna-22.github.io/carlos-portfolio/img/bmw-01.jpg</image:loc></image:image>
+    <image:image><image:loc>https://cosuna-22.github.io/carlos-portfolio/img/bmw-04.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://cosuna-22.github.io/carlos-portfolio/moeve.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://cosuna-22.github.io/carlos-portfolio/img/moeve-04.jpg</image:loc></image:image>
+    <image:image><image:loc>https://cosuna-22.github.io/carlos-portfolio/img/moeve-13.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://cosuna-22.github.io/carlos-portfolio/app-cierzo.html</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
