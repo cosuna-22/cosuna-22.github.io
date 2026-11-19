@@ -46,6 +46,14 @@
     <image:image><image:loc>https://cosuna-22.github.io/carlos-portfolio/img/moeve-13.jpg</image:loc></image:image>
   </url>
   <url>
+    <loc>https://cosuna-22.github.io/carlos-portfolio/foreo.html</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+    <image:image><image:loc>https://cosuna-22.github.io/carlos-portfolio/img/foreo-01.jpg</image:loc></image:image>
+    <image:image><image:loc>https://cosuna-22.github.io/carlos-portfolio/img/foreo-02.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://cosuna-22.github.io/carlos-portfolio/app-cierzo.html</loc>
     <lastmod>2026-11-19</lastmod>
     <changefreq>yearly</changefreq>
