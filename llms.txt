@@ -1,0 +1,27 @@
+# Carlos Osuna · Portfolio de marketing digital
+
+> Carlos Osuna es un perfil junior de marketing digital en Zaragoza (España), especializado en ecommerce, paid media y SEM, planes de medios y estrategia. Graduado en Marketing e Investigación de Mercados por la Universidad de Zaragoza y titulado del Máster en Marketing Digital de ESIC Aragón (2026). Busca su primer puesto en marketing digital en Zaragoza, con incorporación inmediata.
+
+Datos clave:
+
+- Ubicación: Zaragoza, Aragón (España). Permiso B y vehículo propio.
+- Idiomas: español nativo, inglés B2 (MCER). Erasmus en LUMSA Università, Roma (2024–2025).
+- Experiencia: prácticas en Podoactiva (marketing y activación de eventos), Grupodispo (social media) y Espacio Joven · Fundación Ibercaja (gestión de proyectos y CRM).
+- Herramientas: Meta Business Suite, Instagram, Shopify, Microsoft Dynamics 365, SPSS, R Studio, Microsoft 365, Figma, Canva y Miro.
+- Contacto: carlosubu@gmail.com · +34 640 61 29 04 · https://www.linkedin.com/in/carlos-osuna-274a30227/
+
+Los casos de marcas reales son trabajos académicos del Máster en Marketing Digital de ESIC; no son trabajos oficiales para esas marcas.
+
+## Portfolio
+
+- [Inicio (español)](https://cosuna-22.github.io/carlos-portfolio/): perfil, panel de casos, método de trabajo, experiencia, formación y contacto.
+- [Home (English)](https://cosuna-22.github.io/carlos-portfolio/en/): the same portfolio in English.
+
+## Casos
+
+- [FOREO: estrategia SEO y SEM 2026](https://cosuna-22.github.io/carlos-portfolio/foreo.html): estrategia de 550.000 € para la máscara LED FAQ Swiss 202 en España; ROAS SEM de 5,44x en el escenario base. ([English](https://cosuna-22.github.io/carlos-portfolio/en/foreo.html))
+- [PlayStation: plan de medios de Spider-Man 2](https://cosuna-22.github.io/carlos-portfolio/playstation.html): plan de medios de lanzamiento, 70 % digital; Carlos se encargó del bloque de Display y RTB. ([English](https://cosuna-22.github.io/carlos-portfolio/en/playstation.html))
+- [KFC: todos los caminos llevan a casa](https://cosuna-22.github.io/carlos-portfolio/kfc.html): plan omnicanal de delivery de 4 M€ para llevar pedidos de los agregadores al canal propio; Carlos desarrolló el ecommerce en Shopify (Eduardo Drop). ([English](https://cosuna-22.github.io/carlos-portfolio/en/kfc.html))
+- [BMW Unique Connect: movilidad ultra-premium](https://cosuna-22.github.io/carlos-portfolio/bmw.html): buyer persona, brandbook, web, app y cuadro de mando de KPIs. ([English](https://cosuna-22.github.io/carlos-portfolio/en/bmw.html))
+- [Moeve: de petrolera a movilidad sostenible](https://cosuna-22.github.io/carlos-portfolio/moeve.html): hoja de ruta digital, plan de marketing digital e investigación con la Generación Z. ([English](https://cosuna-22.github.io/carlos-portfolio/en/moeve.html))
+- [CIERZO: café para cafeteros](https://cosuna-22.github.io/carlos-portfolio/cierzo.html): proyecto propio de café de especialidad en Zaragoza con app de pre-pedido, club de puntos y lanzamiento de 10.000 €. ([English](https://cosuna-22.github.io/carlos-portfolio/en/cierzo.html))
